@@ -313,7 +313,7 @@
 
       @5
          ?$dmem_rd_en
-          $ld_data[31:0] = $dmem_rd_data;
+         $ld_data[31:0] = $dmem_rd_data;
 
 
       // Note: Because of the magic we are using for visualisation, if visualisation is enabled below,
